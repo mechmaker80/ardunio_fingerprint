@@ -1,4 +1,4 @@
-# Fingerprint Sensor Arduino Project
+# Fingerprint Sensor Arduino Project GT-NUCL1633K1 
 
 This project demonstrates how to interface the **GT-NUCL1633K1** fingerprint sensor module with an **Arduino** using serial communication and interrupts. The goal is to enroll, identify, and manage fingerprints using a simple microcontroller setup.
 
