@@ -1,4 +1,4 @@
-// Code for Sparkfun GT-NUCL1633K1 fingerprint sensor
+// Code for Sparkfun GT-NUCL1633 fingerprint sensor
 
 #include <SoftwareSerial.h>
 #include <Servo.h>
