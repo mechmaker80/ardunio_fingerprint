@@ -1,3 +1,5 @@
+// Code for Sparkfun GT-NUCL1633K1 fingerprint sensor
+
 #include <SoftwareSerial.h>
 
 #define RX_PIN 6  // Connect to TX of fingerprint sensor
