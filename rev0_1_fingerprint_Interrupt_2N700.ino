@@ -1,3 +1,5 @@
+// Code for Sparkfun GT-NUCL1633K1 fingerprint sensor
+
 #include <SoftwareSerial.h>
 #include <Servo.h>
 #include <LowPower.h>  // For low power sleep
